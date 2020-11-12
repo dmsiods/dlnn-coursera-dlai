@@ -1,1 +1,1 @@
-# dlnn-coursera-dlai
+# Deep Learning Specialization on Coursera (offered by deeplearning.ai)
