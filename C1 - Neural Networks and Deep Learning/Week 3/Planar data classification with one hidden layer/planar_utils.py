@@ -34,9 +34,10 @@ def sigmoid(x):
     s = 1/(1+np.exp(-x))
     return s
 
+
 def load_planar_dataset():
     np.random.seed(1)
-    m = 800 # number of examples
+    m = 400 # number of examples
     N = int(m/2) # number of points per class
     D = 2 # dimensionality
     X = np.zeros((m,D)) # data matrix where each row is a single example
@@ -54,6 +55,7 @@ def load_planar_dataset():
     Y = Y.T
 
     return X, Y
+
 
 def load_extra_datasets():  
     N = 200
