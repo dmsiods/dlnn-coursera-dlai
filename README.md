@@ -24,11 +24,11 @@ This repo contains my work for this specialization. The code base, quizes, diagr
 
 ### Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 
-  - [Week 1 - PA 1 - Initialization](https://nbviewer.jupyter.org/github/amanchadha/coursera-deep-learning-specialization/blob/master/C2%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%201/Initialization/Initialization.ipynb)
-  - [Week 1 - PA 2 - Regularization](https://nbviewer.jupyter.org/github/amanchadha/coursera-deep-learning-specialization/blob/master/C2%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%201/Regularization/Regularization_v2a.ipynb)
-  - [Week 1 - PA 3 - Gradient Checking](https://nbviewer.jupyter.org/github/amanchadha/coursera-deep-learning-specialization/blob/master/C2%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%201/Gradient%20Checking/Gradient%20Checking%20v1.ipynb)
-  - [Week 2 - PA 4 - Optimization Methods](https://nbviewer.jupyter.org/github/amanchadha/coursera-deep-learning-specialization/blob/master/C2%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%202/Optimization_methods_v1b.ipynb)
-  - [Week 3 - PA 5 - TensorFlow Tutorial](https://nbviewer.jupyter.org/github/amanchadha/coursera-deep-learning-specialization/blob/master/C2%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%203/TensorFlow_Tutorial_v3b.ipynb)
+  - [Week 1 - PA 1 - Initialization](https://nbviewer.org/github/dmsiods/dlnn-coursera-dlai/blob/main/C2%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%201/Initialization/Initialization.ipynb)
+  - [Week 1 - PA 2 - Regularization](https://nbviewer.org/github/dmsiods/dlnn-coursera-dlai/blob/main/C2%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%201/Regularization/Regularization_v2a.ipynb)
+  - [Week 1 - PA 3 - Gradient Checking](https://nbviewer.org/github/dmsiods/dlnn-coursera-dlai/blob/main/C2%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%201/Gradient%20Checking/Gradient%20Checking%20v1.ipynb)
+  - [Week 2 - PA 4 - Optimization Methods](https://nbviewer.org/github/dmsiods/dlnn-coursera-dlai/blob/main/C2%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%202/Optimization_methods_v1b.ipynb)
+  - [Week 3 - PA 5 - TensorFlow Tutorial](https://nbviewer.org/github/dmsiods/dlnn-coursera-dlai/blob/main/C2%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%203/TensorFlow_Tutorial_v3b.ipynb)
 
 ### Course 3: Structuring Machine Learning Projects
 
