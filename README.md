@@ -36,13 +36,13 @@ This repo contains my work for this specialization. The code base, quizes, diagr
   
 ### Course 4: Convolutional Neural Networks
 
-  - [Week 1 - PA 1 - Convolutional Model: step by step](https://nbviewer.jupyter.org/github/amanchadha/coursera-deep-learning-specialization/blob/master/C4%20-%20Convolutional%20Neural%20Networks/Week%201/Convolution_model_Step_by_Step_v2a.ipynb)
-  - [Week 1 - PA 2 - Convolutional Neural Networks: Application](https://nbviewer.jupyter.org/github/amanchadha/coursera-deep-learning-specialization/blob/master/C4%20-%20Convolutional%20Neural%20Networks/Week%201/Convolution_model_Application_v1a.ipynb)
-  - [Week 2 - PA 1 - Keras - Tutorial - Happy House](https://nbviewer.jupyter.org/github/amanchadha/coursera-deep-learning-specialization/blob/master/C4%20-%20Convolutional%20Neural%20Networks/Week%202/KerasTutorial/Keras%20-%20Tutorial%20-%20Happy%20House%20v2.ipynb)
-  - [Week 2 - PA 2 - Residual Networks](https://nbviewer.jupyter.org/github/amanchadha/coursera-deep-learning-specialization/blob/master/C4%20-%20Convolutional%20Neural%20Networks/Week%202/ResNets/Residual_Networks_v2a.ipynb)
-  - [Week 3 - PA 1 - Car detection with YOLO for Autonomous Driving](https://nbviewer.jupyter.org/github/amanchadha/coursera-deep-learning-specialization/blob/master/C4%20-%20Convolutional%20Neural%20Networks/Week%203/Car%20detection%20for%20Autonomous%20Driving/Autonomous_driving_application_Car_detection_v3a.ipynb)
-  - [Week 4 - PA 1 - Art Generation with Neural Style Transfer](https://nbviewer.jupyter.org/github/amanchadha/coursera-deep-learning-specialization/blob/master/C4%20-%20Convolutional%20Neural%20Networks/Week%204/Neural%20Style%20Transfer/Art_Generation_with_Neural_Style_Transfer_v3a.ipynb)    
-  - [Week 4 - PA 2 - Face Recognition](https://nbviewer.jupyter.org/github/amanchadha/coursera-deep-learning-specialization/blob/master/C4%20-%20Convolutional%20Neural%20Networks/Week%204/Face%20Recognition/Face_Recognition_v3a.ipynb)
+  - [Week 1 - PA 1 - Convolutional Model: step by step](https://nbviewer.org/github/dmsiods/dlnn-coursera-dlai/blob/main/C4%20-%20Convolutional%20Neural%20Networks/Week%201/Convolution_model_Step_by_Step_v2a.ipynb)
+  - [Week 1 - PA 2 - Convolutional Neural Networks: Application](https://nbviewer.org/github/dmsiods/dlnn-coursera-dlai/blob/main/C4%20-%20Convolutional%20Neural%20Networks/Week%201/Convolution_model_Application_v1a.ipynb)
+  - [Week 2 - PA 1 - Keras - Tutorial - Happy House](https://nbviewer.org/github/dmsiods/dlnn-coursera-dlai/blob/main/C4%20-%20Convolutional%20Neural%20Networks/Week%202/KerasTutorial/Keras_Tutorial_v2a.ipynb)
+  - [Week 2 - PA 2 - Residual Networks](https://nbviewer.org/github/dmsiods/dlnn-coursera-dlai/blob/main/C4%20-%20Convolutional%20Neural%20Networks/Week%202/ResNets/Residual_Networks_v2a.ipynb)
+  - [Week 3 - PA 1 - Car detection with YOLO for Autonomous Driving](https://nbviewer.org/github/dmsiods/dlnn-coursera-dlai/blob/main/C4%20-%20Convolutional%20Neural%20Networks/Week%203/Car%20detection%20for%20Autonomous%20Driving/Autonomous_driving_application_Car_detection_v3a.ipynb)
+  - [Week 4 - PA 1 - Art Generation with Neural Style Transfer](https://nbviewer.org/github/dmsiods/dlnn-coursera-dlai/blob/main/C4%20-%20Convolutional%20Neural%20Networks/Week%204/Neural%20Style%20Transfer/Art_Generation_with_Neural_Style_Transfer_v3a.ipynb)    
+  - [Week 4 - PA 2 - Face Recognition](https://nbviewer.org/github/dmsiods/dlnn-coursera-dlai/blob/main/C4%20-%20Convolutional%20Neural%20Networks/Week%204/Face%20Recognition/Face_Recognition_v3a.ipynb)
   
 ### Course 5: Sequence Models
 
